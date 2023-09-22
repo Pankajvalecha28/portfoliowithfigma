@@ -1,0 +1,73 @@
+.testContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 86.67px;
+    padding: 55.333px 50.333px;
+    background-color: #F5FCFF;
+}
+
+.testupper {
+    display: flex;
+    flex-direction: column;
+    gap: 21.33px;
+}
+
+.upper1 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.upper2 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.testlower {
+    display: flex;
+    gap: 42.67px;
+    align-items: flex-start;
+}
+
+.reviewcard {
+    display: flex;
+    padding: 22.67px;
+    flex-direction: column;
+    gap: 32.67px;
+    border-radius: 8px;
+    border: 1.333px solid #006B6A;
+
+}
+
+.avatar {
+    display: flex;
+    align-items: center;
+    gap: 21.333px;
+
+}
+
+.av2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.name {
+    font-size: 21.33px;
+    font-weight: 600;
+}
+
+.work {
+    font-size: 21.33px;
+    font-weight: 400;
+}
+
+.av {
+    width: 74.667px;
+    height: 74.667px;
+
+}
+
+.stars {
+    display: flex;
+    gap: 5.333px;
+}
