@@ -1,0 +1,52 @@
+/* src/App.css */
+.LoginData {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    margin: 0;
+  }
+  
+  .login-container {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+ 
+  
+  .form-group {
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+
+  
+  .fill[type="text"],
+  .fill[type="password"] {
+    width: 95%;
+    height: 30px;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-right: 10px;
+  }
+  
+  .login-button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 13px 36px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 15px;
+  }
+  
+  .login-button:hover {
+    background-color: #0056b3;
+  }
+  

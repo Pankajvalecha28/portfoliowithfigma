@@ -3,10 +3,10 @@
 
 const NavBarData = {
   navbarLinks: [
-    { text: 'Home', link: '/' },
-    { text: 'Portfolio', link: '/portfolio' },
-    { text: 'About me', link: '/about' },
-    { text: 'Testimonials', link: '/testimonials' },
+    { text: 'Home', link: '/homepage' },
+    { text: 'Portfolio', link: '/homepage/portfolio' },
+    { text: 'About me', link: '/homepage/about' },
+    { text: 'Testimonials', link: '/homepage/testimonials' },
   ],
 };
 

@@ -21,8 +21,10 @@ const NavBar = ({ data }) => {
             </Link>
           ))}
         </div>
-        
-          <Link className='navbar-button' to='/contact' >Contact Me</Link>
+        <div className='btns'>
+          <Link className='navbar-button' to='/homepage/contact' >Contact Me</Link>
+          <Link className='navbar-button'  >Login</Link>
+        </div>
         
       </div>
     </div>

@@ -38,8 +38,8 @@
 
 .navbar-button {
   display: flex;
-  width: 140.667px;
-  height: 50px;
+  width: 118.667px;
+  height: 40px;
   color: #5E3BEE;
   padding: 10.667px 19.667px;
   justify-content: center;
@@ -59,4 +59,8 @@
 background: var(--Primary, #5E3BEE);
 color: white;
 cursor: pointer;
+}
+.btns{
+  display: flex;
+  gap: 10.667px;
 }
